@@ -10,7 +10,7 @@ export default function Header({}: Props) {
         <motion.div 
         initial={{
             y: -500,
-            scale:0.5,
+            scale:0.6,
             opacity:0            
         }}
         animate={{
